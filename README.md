@@ -1,5 +1,5 @@
 # Dell PowerEdge Fan Speed Controller for iDRAC 9
-This project provides a custom solution to control fan speed on Dell PowerEdge servers equipped with iDRAC 9 for bothe CPU and GPU servers. The default 30% fan speed set by Dell is too aggressive for environments like home labs or personal file servers, where noise reduction is a priority. This script aims to maintain a quieter operation while ensuring that cooling remains effective during higher workloads.
+This project provides a custom solution to control fan speed on Dell PowerEdge servers equipped with iDRAC 9 for both CPU and GPU servers. The default 30% fan speed set by Dell is too aggressive for environments like home labs or personal file servers, where noise reduction is a priority. This script aims to maintain a quieter operation while ensuring that cooling remains effective during higher workloads.
 
 Inspired by : https://github.com/tigerblue77/Dell_iDRAC_fan_controller for idrac 7 servers. ( needed the additionnal GPU support and idrac 9 fixes )   
  
